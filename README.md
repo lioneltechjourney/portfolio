@@ -37,7 +37,11 @@ Cleaned, analysed data to identify trends and performed hypothesis testing to pr
 - Methods used: EDA, Trending analysis, Hypothesis testing
 
 ## Learning Journey
+### Story 2 - Crossroads
+![Road](/assets/crossroad.jpg)
+My initial journey into cloud computing ignited a deeper passion for data and technology. I found myself dedicating more of my personal time (after work and even on weekends) exploring these fields. From watching YouTube tutorials to enrolling in Udemy courses, I was constantly seeking more knowledge.
 
+However, balancing full-time work with my studies soon became overwhelming, and I found myself at a crossroads. I had to make a critical decision: should I continue this difficult balancing act, or take the leap into full-time study? After much internal debate, planning, and research, I decided to take a bold step forward. I left my job and fully committed myself to pursuing my passion for data and cloud technologies. It was a leap of faith, but one that felt right for my personal and professional growth.
 
 ### Story 1 - Getting Started
 ![Walk](/assets/walk.jpg)

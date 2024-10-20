@@ -37,6 +37,21 @@ Cleaned, analysed data to identify trends and performed hypothesis testing to pr
 - Methods used: EDA, Trending analysis, Hypothesis testing
 
 # Learning Journey
+## Story 3 - Studies & Friendship
+![Study](/assets/study.jpg)
+![Study](/assets/21d38054-1bb0-4238-b08d-390944262e83.jpeg)
+![Study](/assets/6fbd0141-d5a2-4c12-aa78-850878d376c0.jpeg)
+![Study](/assets/c90d718d-d406-4a0a-b152-a6953fb6df2f.jpeg)
+![Study](/assets/e1508c8a-e703-4661-946b-df3a0b4160d5.jpeg)
+
+After taking the leap into full-time studies, I quickly realized that the journey would be intense. The pace was relentless, and I often found myself sacrificing weekends and free time to keep up with coursework and project deadlines. But this time, something was different, I didn’t feel drained or exhausted. In fact, I felt more energized and motivated than ever before. It dawned on me that this was the difference between doing something out of necessity and doing something because you’re truly passionate about it.
+
+Despite the challenges, I was surrounded by people who shared that same passion. In my cohort, I met individuals who were just as eager to learn, push boundaries, and support one another. We weren’t just classmates; we became a close-knit community. Together, we tackled complex problems, shared knowledge & resources, and learned from each other’s strengths. We even attended workshops and events as a group, further deepening our understanding of the data and tech world.
+
+What made this experience so special wasn’t just the knowledge gained, but the friendships formed. It was incredibly encouraging to be part of a group that celebrated each other’s successes and helped lift one another during difficult times. These friendships made the hard work not just bearable, but enjoyable. It felt like we were all on this transformative journey together, striving toward a shared goal.
+
+After months of intense study, the end of our program came faster than I had imagined. While our time together in the classroom may be over, I’m certain this is only the beginning for all of us. These friendships and connections we’ve built are just as valuable as the knowledge we’ve gained. I’m grateful for the support and camaraderie we shared and have no doubt our paths will cross again in the future. Here’s to the exciting journeys that lie ahead for all of us.
+
 ## Story 2 - Crossroads
 ![Road](/assets/crossroad.jpg)
 

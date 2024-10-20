@@ -37,7 +37,7 @@ Cleaned, analysed data to identify trends and performed hypothesis testing to pr
 - Methods used: EDA, Trending analysis, Hypothesis testing
 
 # Learning Journey
-## Story 3 - Studies & Friendship
+## Story 3 - Studies & Friendships
 ![Study](/assets/study.jpg)
 ![Study](/assets/21d38054-1bb0-4238-b08d-390944262e83.jpeg)
 ![Study](/assets/6fbd0141-d5a2-4c12-aa78-850878d376c0.jpeg)

@@ -35,6 +35,6 @@ Cleaned, analysed data to identify trends and performed hypothesis testing to pr
 - Bachelor's Degree in Chemical & Biomolecular Engineering, Nanyang Technological University (_Jul 2017_)	 			        		
 - Diploma in Chemical & Biomolecular Engineering, Ngee Ann Polytechnic (_Apr 2012_)
 
-#### Contact Me
-Email: lionel.lowyy@gmail.com
-Linkedin: https://www.linkedin.com/in/lionel-low-yy/
+## Contact Me
+- Email: lionel.lowyy@gmail.com
+- Linkedin: https://www.linkedin.com/in/lionel-low-yy/

@@ -31,14 +31,9 @@ Cleaned, analysed data to identify trends and performed hypothesis testing to pr
 - Methods used: EDA, Trending analysis, Hypothesis testing
 
 ## Education
-- Professional Certificate in Data Science & Artificial Intelligence | Institute of Data (Curtain University Accredited) (_Oct 2024_)								       		
-- Bachelor's Degree in Chemical & Biomolecular Engineering | Nanyang Technological University (_Jul 2017_)	 			        		
-- Diploma in Chemical & Biomolecular Engineering | Ngee Ann Polytechnic (_Apr 2012_)
-
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Professional Certificate in Data Science & Artificial Intelligence, Institute of Data (Curtain University Accredited) (_Oct 2024_)								       		
+- Bachelor's Degree in Chemical & Biomolecular Engineering, Nanyang Technological University (_Jul 2017_)	 			        		
+- Diploma in Chemical & Biomolecular Engineering, Ngee Ann Polytechnic (_Apr 2012_)
 
 #### Contact Me
 Email: lionel.lowyy@gmail.com

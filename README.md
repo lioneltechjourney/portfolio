@@ -40,9 +40,10 @@ Cleaned, analysed data to identify trends and performed hypothesis testing to pr
 
 
 ### Story 1 - Getting Started
-![Walk](/assets/walk
-I have studied and worked as an engineer all my life, not knowing much about tech & data except seeing news about big ups and downs. In late 2023, I was first introduced about cloud computing by a close friend of mine. I then decided to give it a go and signed up for AWS cloud practitioner. after 2 months of studies, i managed to get certified in AWS cloud practitioner. 
+![Walk](/assets/walk.jpg)
+As an engineer, my focus had always been on traditional systems and processes. Tech and data, though ever-present in the headlines, were worlds I had yet to explore. That changed in late 2023 when a close friend of mine introduced me to the concept of cloud computing. Intrigued by its possibilities, I decided to challenge myself and signed up for the AWS Cloud Practitioner certification.
 
+The learning curve was steep at first, with new terminologies and concepts. But with two months of focused study, I was able to grasp the fundamentals of cloud infrastructure, services, and solutions. Earning my AWS Cloud Practitioner certification felt like a major milestone, not just in terms of technical achievement, but also as a first step into a field I was eager to explore further. This experience opened my eyes to the immense potential of technology, and I knew this was just the beginning of my learning journey.
 
 ## Education
 - Professional Certificate in Data Science & Artificial Intelligence, Institute of Data (Curtain University Accredited) (_Oct 2024_)								       		

@@ -9,6 +9,7 @@ The first step may be tough, but it’s the beginning of great things. Let’s g
 ## Projects
 
 ### Capstone Project: Machine Failure Prediction & Anomaly Detection
+![Mainetnance](/assets/maintenance.png)
 Developed & deployed a predictive model for machine failure forecasting using Streamlit for cloud-based access. Created an unsupervised model for anomaly detection and built an interactive dashboard for real-time anomaly monitoring, optimizing maintenance schedules and enhancing operational efficiency. 
 - Methods used: EDA, Machine Learning, AutoEncoders, PowerBI, Streamlit
 - App Link: https://machine-prediction.streamlit.app/ 

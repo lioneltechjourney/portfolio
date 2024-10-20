@@ -11,22 +11,22 @@ Developed & deployed a predictive model for machine failure forecasting using St
 - Methods used: EDA, Machine Learning, AutoEncoders, PowerBI, Streamlit
 - App Link: https://machine-prediction.streamlit.app/ 
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Project 1: Anti-Money Laundering Transaction Monitoring & Streamlit App Deployment
+Designed and deployed a predictive model to identify high-risk financial transactions, enhancing compliance with AML regulations and enabling real-time risk assessments for detecting suspicious activities. 
+- Methods used: EDA, Machine Learning, Streamlit, Network Analysis
+- App Link: https://risk-predictor.streamlit.app/ 
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+### Project 2: Amazon Fake Review Detection & Sentiment Analysis
+Performed text preprocessing, clustering and sentiment analysis to identify fake reviews. Utilized data insights to enhance review authenticity, improve customer trust and detect fraudulent patterns in product feedback.
+- Methods used: EDA, Machine Learning, DBSCAN, NLP, Sentiment Analysis via VADER
 
-![Bike Study](/assets/img/bike_study.jpeg)
+### Project 3: Inventory Optimization via Predictive Modelling
+Performed exploratory data analysis and identified patterns to deliver insights and strategic recommendations using supervised machine learning for optimizing inventory management, preventing stockouts and overstock. 
+- Methods used: EDA, Machine Learning
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+### Project 4: Singapore Car Purchase Timing Analysis
+Cleaned, analysed data to identify trends and performed hypothesis testing to provide actionable insights on optimal car purchase timing in Singapore, recommending periods with the lowest COE premiums. 
+- Methods used: EDA, Trending analysis, Hypothesis testing
 
 ## Publications
 

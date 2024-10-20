@@ -4,6 +4,8 @@ I'm an aspiring professional transitioning into the tech/data industry while bri
 
 The first step may be tough, but it’s the beginning of great things. Let’s go!
 
+#### Technical Skills: Python, TensorFlow, Keras, Machine Learning, SQL, Data Statistics & Analytic, Data Visualization (PowerBI), Databases, AI & Deep Leaning, Large Language Model (LLM), Natural Language Processing (NLP), Problem Solving, Critical Thinking, MS Excel, SAP, MiniTab, JMP, AWS Solution Architect (in-progress)
+
 ## Projects
 
 ### Capstone Project: Machine Failure Prediction & Anomaly Detection
@@ -28,20 +30,12 @@ Performed exploratory data analysis and identified patterns to deliver insights 
 Cleaned, analysed data to identify trends and performed hypothesis testing to provide actionable insights on optimal car purchase timing in Singapore, recommending periods with the lowest COE premiums. 
 - Methods used: EDA, Trending analysis, Hypothesis testing
 
-## Publications
-
-#### Technical Skills: Python, SQL, AWS
-
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Professional Certificate in Data Science & Artificial Intelligence | Institute of Data (Curtain University Accredited) (_Oct 2024_)								       		
+- Bachelor's Degree in Chemical & Biomolecular Engineering | Nanyang Technological University (_Jul 2017_)	 			        		
+- Diploma in Chemical & Biomolecular Engineering | Ngee Ann Polytechnic (_Apr 2012_)
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+#### Contact Me
+Email: lionel.lowyy@gmail.com
+Linkedin: https://www.linkedin.com/in/lionel-low-yy/

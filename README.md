@@ -44,3 +44,4 @@ Cleaned, analysed data to identify trends and performed hypothesis testing to pr
 ## Contact Me
 - Email: lionel.lowyy@gmail.com
 - Linkedin: https://www.linkedin.com/in/lionel-low-yy/
+- Github: https://github.com/lioneltechjourney

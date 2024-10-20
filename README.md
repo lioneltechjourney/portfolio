@@ -1,6 +1,6 @@
 # About Me
 
-I'm an aspiring professional transitioning into the tech/data industry while bringing over 6+ years of experience, problem-solving abilities, and project management skills from previous engineering (medical and semiconductor) background. 
+I'm an aspiring professional transitioning into the tech/data industry while bringing over 6+ years of experience, problem-solving abilities, and project management skills from previous engineering background. 
 
 The first step may be tough, but it’s the beginning of great things. Let’s go!
 
@@ -35,6 +35,14 @@ Performed exploratory data analysis and identified patterns to deliver insights 
 ![Cars](/assets/cars.webp)
 Cleaned, analysed data to identify trends and performed hypothesis testing to provide actionable insights on optimal car purchase timing in Singapore, recommending periods with the lowest COE premiums. 
 - Methods used: EDA, Trending analysis, Hypothesis testing
+
+## Learning Journey
+
+
+### Story 1 - Getting Started
+![Walk](/assets/walk
+I have studied and worked as an engineer all my life, not knowing much about tech & data except seeing news about big ups and downs. In late 2023, I was first introduced about cloud computing by a close friend of mine. I then decided to give it a go and signed up for AWS cloud practitioner. after 2 months of studies, i managed to get certified in AWS cloud practitioner. 
+
 
 ## Education
 - Professional Certificate in Data Science & Artificial Intelligence, Institute of Data (Curtain University Accredited) (_Oct 2024_)								       		

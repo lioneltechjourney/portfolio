@@ -21,6 +21,7 @@ Designed and deployed a predictive model to identify high-risk financial transac
 - App Link: https://risk-predictor.streamlit.app/ 
 
 ### Project 2: Amazon Fake Review Detection & Sentiment Analysis
+![Ecom](/assets/ecom.webp)
 Performed text preprocessing, clustering and sentiment analysis to identify fake reviews. Utilized data insights to enhance review authenticity, improve customer trust and detect fraudulent patterns in product feedback.
 - Methods used: EDA, Machine Learning, DBSCAN, NLP, Sentiment Analysis via VADER
 

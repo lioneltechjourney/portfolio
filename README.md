@@ -15,6 +15,7 @@ Developed & deployed a predictive model for machine failure forecasting using St
 - App Link: https://machine-prediction.streamlit.app/ 
 
 ### Project 1: Anti-Money Laundering Transaction Monitoring & Streamlit App Deployment
+![AML](/assets/aml.jpg)
 Designed and deployed a predictive model to identify high-risk financial transactions, enhancing compliance with AML regulations and enabling real-time risk assessments for detecting suspicious activities. 
 - Methods used: EDA, Machine Learning, Streamlit, Network Analysis
 - App Link: https://risk-predictor.streamlit.app/ 
@@ -24,10 +25,12 @@ Performed text preprocessing, clustering and sentiment analysis to identify fake
 - Methods used: EDA, Machine Learning, DBSCAN, NLP, Sentiment Analysis via VADER
 
 ### Project 3: Inventory Optimization via Predictive Modelling
+![IM](/assets/im.webp)
 Performed exploratory data analysis and identified patterns to deliver insights and strategic recommendations using supervised machine learning for optimizing inventory management, preventing stockouts and overstock. 
 - Methods used: EDA, Machine Learning
 
 ### Project 4: Singapore Car Purchase Timing Analysis
+![Cars](/assets/cars.webp)
 Cleaned, analysed data to identify trends and performed hypothesis testing to provide actionable insights on optimal car purchase timing in Singapore, recommending periods with the lowest COE premiums. 
 - Methods used: EDA, Trending analysis, Hypothesis testing
 

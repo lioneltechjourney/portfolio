@@ -12,14 +12,14 @@ The first step may be tough, but it’s the beginning of great things. Let’s g
 ![Mainetnance](/assets/maintenance.png)
 Developed & deployed a predictive model for machine failure forecasting using Streamlit for cloud-based access. Created an unsupervised model for anomaly detection and built an interactive dashboard for real-time anomaly monitoring, optimizing maintenance schedules and enhancing operational efficiency. 
 - Methods used: EDA, Machine Learning, AutoEncoders, PowerBI, Streamlit
-[Capstone PPT][/assets/Capstone_Project.pdf)
-[App Link](https://machine-prediction.streamlit.app/)
+- [Capstone PPT][./assets/Capstone_Project.pdf)
+- [App Link](https://machine-prediction.streamlit.app/)
 
 ### Project 1: Anti-Money Laundering Transaction Monitoring & Streamlit App Deployment
 ![AML](/assets/aml.jpg)
 Designed and deployed a predictive model to identify high-risk financial transactions, enhancing compliance with AML regulations and enabling real-time risk assessments for detecting suspicious activities. 
 - Methods used: EDA, Machine Learning, Streamlit, Network Analysis
-[App Link](https://risk-predictor.streamlit.app/)
+- [App Link](https://risk-predictor.streamlit.app/)
 
 ### Project 2: Amazon Fake Review Detection & Sentiment Analysis
 ![Ecom](/assets/ecom.webp)

@@ -66,11 +66,16 @@ What made this experience so special wasn’t just the knowledge gained, but the
 
 After months of intense study, the end of our program came faster than I had imagined. While our time together in the classroom may be over, I’m certain this is only the beginning for all of us. These friendships and connections we’ve built are just as valuable as the knowledge we’ve gained. I’m grateful for the support and camaraderie we shared and have no doubt our paths will cross again in the future. Here’s to the exciting journeys that lie ahead for all of us. Cheers!
 
-## Story  - TEST
+## Story 4 - Learning Never Stops
 
 ![SS](/assets/SS2.gif)
+![Event](/assets/AWS1.jpg)
 
-TEST
+One of the most important lessons I’ve learned on this journey is that education doesn’t end when you earn a certificate or finish a course. It’s a continuous process, especially in the tech and data fields where innovation is constant. Since completing my formal studies, I’ve made it a point to keep learning.
+
+I regularly attend workshops, engage in webinars, and stay updated with the latest tools and techniques. Beyond just absorbing new knowledge, I actively apply what I learn through hands-on projects, ensuring that theory translates into practical skills. Whether it’s experimenting with new cloud computing tools or diving into AI advancements, I’ve come to realize that growth comes from consistent practice and an eagerness to embrace the unknown.
+
+Every workshop, event, or resource is an opportunity to refine my skills, challenge my understanding, and adapt to the evolving landscape. My commitment to learning is not just about keeping up; it’s about staying ahead and pushing myself further in this ever-changing industry.
 
 # Education
 - Professional Certificate in Data Science & Artificial Intelligence, Institute of Data (Curtin University Accredited) (_Oct 2024_)								       		

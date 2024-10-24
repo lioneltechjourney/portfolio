@@ -68,7 +68,6 @@ After months of intense study, the end of our program came faster than I had ima
 
 ## Story 4 - Learning Never Stops
 ![SS](/assets/SS2.gif)
-![Event](/assets/AWS1.jpeg)
 
 One of the most important lessons I’ve learned on this journey is that education doesn’t end when you earn a certificate or finish a course. It’s a continuous process, especially in the tech and data fields where innovation is constant. Since completing my formal studies, I’ve made it a point to keep learning.
 

@@ -67,7 +67,9 @@ What made this experience so special wasn’t just the knowledge gained, but the
 After months of intense study, the end of our program came faster than I had imagined. While our time together in the classroom may be over, I’m certain this is only the beginning for all of us. These friendships and connections we’ve built are just as valuable as the knowledge we’ve gained. I’m grateful for the support and camaraderie we shared and have no doubt our paths will cross again in the future. Here’s to the exciting journeys that lie ahead for all of us. Cheers!
 
 ## Story  - TEST
-![Study](/assets/SS1.mp4)
+![SS](/assets/SS1.gif)
+
+TEST
 
 # Education
 - Professional Certificate in Data Science & Artificial Intelligence, Institute of Data (Curtin University Accredited) (_Oct 2024_)								       		

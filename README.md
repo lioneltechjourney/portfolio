@@ -68,8 +68,6 @@ After months of intense study, the end of our program came faster than I had ima
 
 ## Story  - TEST
 
-<img src="./SS1.gif" alt="SS1" width="500" height="300">
-
 ![SS](/assets/SS1.gif)
 
 TEST

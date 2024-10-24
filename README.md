@@ -77,6 +77,7 @@ I regularly attend workshops, engage in webinars, and stay updated with the late
 
 Every workshop, event, or resource is an opportunity to refine my skills, challenge my understanding, and adapt to the evolving landscape. My commitment to learning is not just about keeping up; it’s about staying ahead and pushing myself further in this ever-changing industry.
 
+
 # Education
 - Professional Certificate in Data Science & Artificial Intelligence, Institute of Data (Curtin University Accredited) (_Oct 2024_)								       		
 - Bachelor's Degree in Chemical & Biomolecular Engineering, Nanyang Technological University (_Jul 2017_)	 			        		

@@ -68,7 +68,7 @@ After months of intense study, the end of our program came faster than I had ima
 
 ## Story  - TEST
 
-![SS](/assets/SS1.gif)
+![SS](/assets/SS2.gif)
 
 TEST
 

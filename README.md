@@ -51,7 +51,7 @@ My initial journey into cloud computing ignited a deeper passion for data and te
 
 However, balancing full-time work with my studies soon became overwhelming, and I found myself at a crossroads. I had to make a critical decision: should I continue this difficult balancing act, or take the leap into full-time study? After much internal debate, planning, and research, I decided to take a bold step forward. I left my job and fully committed myself to pursuing my passion for data and cloud technologies. It was a leap of faith, but one that felt right for my personal and professional growth.
 
-## Story 3 - Studies & Friendships
+## Story 3 - Studies & Forging Bonds
 ![Study](/assets/study.jpg)
 ![Study](/assets/21d38054-1bb0-4238-b08d-390944262e83.jpeg)
 ![Study](/assets/6fbd0141-d5a2-4c12-aa78-850878d376c0.jpeg)
@@ -65,6 +65,9 @@ Despite the challenges, I was surrounded by people who shared that same passion.
 What made this experience so special wasn’t just the knowledge gained, but the friendships formed. It was incredibly encouraging to be part of a group that celebrated each other’s successes and helped lift one another during difficult times. These friendships made the hard work not just bearable, but enjoyable. It felt like we were all on this transformative journey together, striving toward a shared goal.
 
 After months of intense study, the end of our program came faster than I had imagined. While our time together in the classroom may be over, I’m certain this is only the beginning for all of us. These friendships and connections we’ve built are just as valuable as the knowledge we’ve gained. I’m grateful for the support and camaraderie we shared and have no doubt our paths will cross again in the future. Here’s to the exciting journeys that lie ahead for all of us. Cheers!
+
+## Story  - TEST
+![Study](/assets/SS1.mp4)
 
 # Education
 - Professional Certificate in Data Science & Artificial Intelligence, Institute of Data (Curtin University Accredited) (_Oct 2024_)								       		

@@ -75,6 +75,16 @@ I regularly attend workshops, engage in webinars, and stay updated with the late
 
 Every workshop, event, or resource is an opportunity to refine my skills, challenge my understanding, and adapt to the evolving landscape. My commitment to learning is not just about keeping up; it’s about staying ahead and pushing myself further in this ever-changing industry.
 
+## Story 5 - Expanding Horizons: Networking and Exposure in the Tech World
+![Event](/assets/E1.jpeg)
+![Event](/assets/E2.jpeg)
+![Event](/assets/E3.jpeg)
+![Event](/assets/E4.jpeg)
+
+As I delve deeper into the world of tech and data, I’ve been making it a point to attend more industry events, seminars, and meetups. These gatherings have provided a wealth of knowledge, offering insights into the latest trends, innovations, and best practices. Each event brings new perspectives, and I’m constantly inspired by the ideas and experiences shared by industry leaders and pioneers.
+
+Beyond the knowledge gained, these events have given me invaluable networking opportunities. Connecting with experts and like-minded professionals has allowed me to broaden my understanding, form meaningful relationships, and envision new pathways in my career. Every conversation and connection brings me a step closer to realizing my goals in the tech industry, and I’m excited to see where this journey of continuous learning and exposure will take me next.
+
 # Education
 - Professional Certificate in Data Science & Artificial Intelligence, Institute of Data (Curtin University Accredited) (_Oct 2024_)								       		
 - Bachelor's Degree in Chemical & Biomolecular Engineering, Nanyang Technological University (_Jul 2017_)	 			        		

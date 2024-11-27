@@ -85,6 +85,13 @@ As I delve deeper into the world of tech and data, I’ve been making it a point
 
 Beyond the knowledge gained, these events have given me invaluable networking opportunities. Connecting with experts and like-minded professionals has allowed me to broaden my understanding, form meaningful relationships, and envision new pathways in my career. Every conversation and connection brings me a step closer to realizing my goals in the tech industry, and I’m excited to see where this journey of continuous learning and exposure will take me next.
 
+## Story 6 - Learning Never Stops
+![SS](/assets/SS3.gif)
+![AWS](/assets/awssa.png)
+
+One of the most important lessons I’ve learned on this journey is that education doesn’t end when you earn a certificate or finish a course. It’s a continuous process, especially in the tech and data fields where innovation is constant. Since completing my formal studies, I’ve made it a point to keep learning.
+
+
 # Education
 - Professional Certificate in Data Science & Artificial Intelligence, Institute of Data (Curtin University Accredited) (_Oct 2024_)								       		
 - Bachelor's Degree in Chemical & Biomolecular Engineering, Nanyang Technological University (_Jul 2017_)	 			        		

@@ -85,11 +85,17 @@ As I delve deeper into the world of tech and data, I’ve been making it a point
 
 Beyond the knowledge gained, these events have given me invaluable networking opportunities. Connecting with experts and like-minded professionals has allowed me to broaden my understanding, form meaningful relationships, and envision new pathways in my career. Every conversation and connection brings me a step closer to realizing my goals in the tech industry, and I’m excited to see where this journey of continuous learning and exposure will take me next.
 
-## Story 6 - Learning Never Stops
+## Story 6 - Pushing Limits: AWS Solutions Architect Achieved
 ![AWS](/assets/awssa1.png)
 ![SS](/assets/SS3.gif)
 
-One of the most important lessons I’ve learned on this journey is that education doesn’t end when you earn a certificate or finish a course. It’s a continuous process, especially in the tech and data fields where innovation is constant. Since completing my formal studies, I’ve made it a point to keep learning.
+I’m thrilled to share that I’ve officially earned the AWS Solutions Architect – Associate certification! This achievement represents more than just a badge—it’s a testament to the power of setting ambitious goals and pushing beyond comfort zones.
+
+I set myself a tight deadline to stay motivated and committed, knowing that time constraints would drive me to focus and give my best effort. Over the past 2 months, I dedicated countless hours to studying, exploring AWS services, and understanding cloud architecture in depth. It wasn’t always easy, but the challenge kept me energized and determined.
+
+Passing the exam on my first attempt feels incredibly rewarding. This journey not only deepened my technical knowledge but also reinforced the importance of perseverance, self-discipline, and continuous learning.
+
+In the ever-evolving world of data and tech, this milestone is a stepping stone. I’m excited to leverage these cloud skills to tackle complex challenges, contribute to innovative projects, and continue growing in this dynamic industry. This is just the beginning, and I can’t wait to see what the future holds!
 
 
 # Education

@@ -87,7 +87,7 @@ Beyond the knowledge gained, these events have given me invaluable networking op
 
 ## Story 6 - Learning Never Stops
 ![SS](/assets/SS3.gif)
-![AWS](/assets/awssa.png)
+![AWS](/assets/awssa1.png)
 
 One of the most important lessons I’ve learned on this journey is that education doesn’t end when you earn a certificate or finish a course. It’s a continuous process, especially in the tech and data fields where innovation is constant. Since completing my formal studies, I’ve made it a point to keep learning.
 

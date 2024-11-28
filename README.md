@@ -4,7 +4,7 @@ I'm an aspiring professional transitioning into the tech/data industry while bri
 
 The first step may be tough, but it’s the beginning of great things. Let’s go!
 
-#### Technical Skills: Python, TensorFlow, Keras, Machine Learning, SQL, Data Statistics & Analytic, Data Visualization (PowerBI), Databases, AI & Deep Leaning, Large Language Model (LLM), Natural Language Processing (NLP), Problem Solving, Critical Thinking, MS Excel, SAP, MiniTab, JMP, AWS Solution Architect (in-progress)
+#### Technical Skills: Python, TensorFlow, Keras, Machine Learning, SQL, Data Statistics & Analytic, Data Visualization (PowerBI), Databases, AI & Deep Leaning, Large Language Model (LLM), Natural Language Processing (NLP), Problem Solving, Critical Thinking, MS Excel, SAP, MiniTab, JMP
 
 # Projects
 
